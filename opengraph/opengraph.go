@@ -9,14 +9,14 @@ import (
 	"golang.org/x/net/html"
 	"golang.org/x/net/html/atom"
 
-	"github.com/dyatlov/go-opengraph/opengraph/types/actor"
-	"github.com/dyatlov/go-opengraph/opengraph/types/article"
-	"github.com/dyatlov/go-opengraph/opengraph/types/audio"
-	"github.com/dyatlov/go-opengraph/opengraph/types/book"
-	"github.com/dyatlov/go-opengraph/opengraph/types/image"
-	"github.com/dyatlov/go-opengraph/opengraph/types/music"
-	"github.com/dyatlov/go-opengraph/opengraph/types/profile"
-	"github.com/dyatlov/go-opengraph/opengraph/types/video"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/actor"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/article"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/audio"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/book"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/image"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/music"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/profile"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/video"
 )
 
 // OpenGraph contains facebook og data

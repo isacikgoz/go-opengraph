@@ -3,7 +3,7 @@ package video
 import (
 	"time"
 
-	"github.com/dyatlov/go-opengraph/opengraph/types/actor"
+	"github.com/isacikgoz/go-opengraph/opengraph/types/actor"
 )
 
 // Video defines Open Graph Video type
